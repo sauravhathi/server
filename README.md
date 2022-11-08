@@ -9,7 +9,6 @@ This is a simple user registration and login system using Node.js, Express.js, M
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ cd mern-appliaction
 $ cd server
 $ npm install
 $ npm start
